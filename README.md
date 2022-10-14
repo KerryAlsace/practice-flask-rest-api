@@ -1,3 +1,6 @@
+# Create a Basic REST Api with Flask
+- Made by following the tutorial [here](https://www.udemy.com/course/rest-api-flask-and-python/learn/lecture/15927706?start=225#content).
+
 ## Create Virtual Environment
 - `python3.9 -m venv .venv`
 
